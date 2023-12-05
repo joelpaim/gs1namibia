@@ -1,0 +1,99 @@
+.memberLogin 
+{
+    border: 2px solid #cd3c0d;
+            width: 151px;
+            margin-left: 22px;      
+            border-radius: 9px;
+
+}
+
+.gs1-logo {
+    height: 51px;
+}
+
+.hero {
+     
+    background: url(assets/img/industries/Industries.jpg); 
+    
+}
+
+.banner__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right;
+}
+
+.section-content {
+    width: 90%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5%;
+}
+
+.section-content img {
+    width: 100%;
+
+}
+
+.section-content img {
+    width: 100%;
+
+}
+
+.display-details {
+    padding: 0 0 0 7%;
+}
+
+.section-content h2 {
+    font-size: 22px;
+    color: #213268;
+    margin-top: 5%;
+}
+
+
+
+
+
+
+/*
+.container {
+    padding: 9% 5% 0% 5%;
+}
+*/
+
+/*
+@media (min-width: 1200px) {
+    .section-content {
+        max-width: 1170px;
+    }
+}
+
+@media (min-width: 992px){
+    .section-content {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 768px)
+{
+    .section-content {
+        max-width: 850px;
+    }
+}
+
+
+@media (min-width: 650px){
+    .section-content {
+        max-width: 650px;
+    }
+}
+
+@media (min-width: 480px){
+    .section-content {
+        max-width: 430px;
+    }
+}
+*/
